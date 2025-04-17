@@ -1,0 +1,7 @@
+env==0.1.0
+gym==0.26.2
+matplotlib==3.10.1
+numpy==1.23.5
+torch==2.6.0
+pygame==2.5.2
+Box2D==2.3.10
